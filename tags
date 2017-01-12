@@ -1,0 +1,29 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+LinkedList	03/code/linked_list.py	/^class LinkedList:$/;"	kind:class	line:6
+Node	03/code/Node.py	/^class Node:$/;"	kind:class	line:4
+Node	03/code/linked_list.py	/^from Node import Node$/;"	kind:namespace	line:4
+Node.py	03/code/Node.py	1;"	kind:file	line:1
+SeqList	03/seq_list.py	/^class SeqList:$/;"	kind:class	line:4
+__init__	03/code/Node.py	/^    def __init__(self, data=None, next=None):$/;"	kind:member	line:6
+__init__	03/code/linked_list.py	/^    def __init__(self):$/;"	kind:member	line:7
+__init__	03/seq_list.py	/^    def __init__(self, dataList=None):$/;"	kind:member	line:6
+append	03/code/linked_list.py	/^    def append(self, elem):$/;"	kind:member	line:26
+del_first	03/seq_list.py	/^    def del_first(self):$/;"	kind:member	line:26
+del_last	03/seq_list.py	/^    def del_last(self):$/;"	kind:member	line:24
+forall	03/seq_list.py	/^    def forall(self, fn):$/;"	kind:member	line:29
+insert	03/seq_list.py	/^    def insert(self, elem, i):$/;"	kind:member	line:18
+isEmpty	03/code/linked_list.py	/^    def isEmpty(self):$/;"	kind:member	line:10
+is_empty	03/seq_list.py	/^    def is_empty(self):$/;"	kind:member	line:9
+length	03/seq_list.py	/^    def length(self):$/;"	kind:member	line:12
+linked_list.py	03/code/linked_list.py	1;"	kind:file	line:1
+n1	03/code/Node.py	/^    n1 = Node(1, None)$/;"	kind:variable	line:14
+n2	03/code/Node.py	/^    n2 = Node(2, None)$/;"	kind:variable	line:15
+pop	03/code/linked_list.py	/^    def pop(self):$/;"	kind:member	line:15
+preappend	03/seq_list.py	/^    def preappend(self, data):$/;"	kind:member	line:15
+prepend	03/code/linked_list.py	/^    def prepend(self, elem):$/;"	kind:member	line:13
+seq_list.py	03/seq_list.py	1;"	kind:file	line:1
