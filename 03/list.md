@@ -23,7 +23,8 @@
 + **实现问题？** 
  + 计算机内存的特点，以及保存元素和元素顺序信息的需要
  + 各种重要操作的效率
-> ### 3. 什么样的情况下使用，优缺点是什么? ###
+
+### 3. 什么样的情况下使用，优缺点是什么? ###
 > ### 分类
 
 > #### 顺序表 ####
@@ -76,6 +77,13 @@
 
   + 删除 
   ![del](./images/del.png)
+
+  + 循环链表
+  <img src="./images/cycle.png" alt="" height="200px" width="600px">
+  + 双向循环链表
+  <img src="./images/cycle_double.png" alt="" height="200px" width="600px">
+  + 双向链表
+  <img src="./images/doublelinked.png" alt="" height="200px" width="600px">
 
     
   

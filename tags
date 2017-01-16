@@ -8,25 +8,25 @@ LinkedList	03/code/linked_list.py	/^class LinkedList:$/;"	kind:class	line:6
 Node	03/code/Node.py	/^class Node:$/;"	kind:class	line:4
 Node	03/code/linked_list.py	/^from Node import Node$/;"	kind:namespace	line:4
 Node.py	03/code/Node.py	1;"	kind:file	line:1
-SeqList	03/seq_list.py	/^class SeqList:$/;"	kind:class	line:4
+SeqList	03/code/seq_list.py	/^class SeqList:$/;"	kind:class	line:4
 __init__	03/code/Node.py	/^    def __init__(self, elem=None, next=None):$/;"	kind:member	line:6
 __init__	03/code/linked_list.py	/^    def __init__(self):$/;"	kind:member	line:7
-__init__	03/seq_list.py	/^    def __init__(self, dataList=None):$/;"	kind:member	line:6
+__init__	03/code/seq_list.py	/^    def __init__(self, dataList=None):$/;"	kind:member	line:6
 append	03/code/linked_list.py	/^    def append(self, elem):$/;"	kind:member	line:26
-del_first	03/seq_list.py	/^    def del_first(self):$/;"	kind:member	line:26
-del_last	03/seq_list.py	/^    def del_last(self):$/;"	kind:member	line:24
+del_first	03/code/seq_list.py	/^    def del_first(self):$/;"	kind:member	line:26
+del_last	03/code/seq_list.py	/^    def del_last(self):$/;"	kind:member	line:24
 find	03/code/linked_list.py	/^    def find(self, pred):$/;"	kind:member	line:49
-forall	03/seq_list.py	/^    def forall(self, fn):$/;"	kind:member	line:29
-insert	03/seq_list.py	/^    def insert(self, elem, i):$/;"	kind:member	line:18
+forall	03/code/seq_list.py	/^    def forall(self, fn):$/;"	kind:member	line:29
+insert	03/code/seq_list.py	/^    def insert(self, elem, i):$/;"	kind:member	line:18
 isEmpty	03/code/linked_list.py	/^    def isEmpty(self):$/;"	kind:member	line:10
-is_empty	03/seq_list.py	/^    def is_empty(self):$/;"	kind:member	line:9
-length	03/seq_list.py	/^    def length(self):$/;"	kind:member	line:12
+is_empty	03/code/seq_list.py	/^    def is_empty(self):$/;"	kind:member	line:9
+length	03/code/seq_list.py	/^    def length(self):$/;"	kind:member	line:12
 linked_list.py	03/code/linked_list.py	1;"	kind:file	line:1
 n1	03/code/Node.py	/^    n1 = Node(1, None)$/;"	kind:variable	line:14
 n2	03/code/Node.py	/^    n2 = Node(2, None)$/;"	kind:variable	line:15
 pop	03/code/linked_list.py	/^    def pop(self):$/;"	kind:member	line:15
 poplast	03/code/linked_list.py	/^    def poplast(self):$/;"	kind:member	line:35
-preappend	03/seq_list.py	/^    def preappend(self, data):$/;"	kind:member	line:15
+preappend	03/code/seq_list.py	/^    def preappend(self, data):$/;"	kind:member	line:15
 prepend	03/code/linked_list.py	/^    def prepend(self, elem):$/;"	kind:member	line:13
 printAll	03/code/linked_list.py	/^    def printAll(self):$/;"	kind:member	line:57
-seq_list.py	03/seq_list.py	1;"	kind:file	line:1
+seq_list.py	03/code/seq_list.py	1;"	kind:file	line:1
