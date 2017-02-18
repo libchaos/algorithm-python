@@ -18,11 +18,15 @@ del_first	03/code/seq_list.py	/^    def del_first(self):$/;"	kind:member	line:26
 del_last	03/code/seq_list.py	/^    def del_last(self):$/;"	kind:member	line:24
 find	03/code/linked_list.py	/^    def find(self, pred):$/;"	kind:member	line:49
 forall	03/code/seq_list.py	/^    def forall(self, fn):$/;"	kind:member	line:29
+genPnext	04/code/kmp.py	/^def genPnext(p):$/;"	kind:function	line:34
+gen_pnext	04/code/kmp.py	/^def gen_pnext(p):$/;"	kind:function	line:22
 insert	03/code/seq_list.py	/^    def insert(self, elem, i):$/;"	kind:member	line:18
 isEmpty	03/code/linked_list.py	/^    def isEmpty(self):$/;"	kind:member	line:10
 is_empty	03/code/seq_list.py	/^    def is_empty(self):$/;"	kind:member	line:9
+kmp.py	04/code/kmp.py	1;"	kind:file	line:1
 length	03/code/seq_list.py	/^    def length(self):$/;"	kind:member	line:12
 linked_list.py	03/code/linked_list.py	1;"	kind:file	line:1
+matching_KMP	04/code/kmp.py	/^def matching_KMP(t, p, pnext):$/;"	kind:function	line:10
 n1	03/code/Node.py	/^    n1 = Node(1, None)$/;"	kind:variable	line:14
 n2	03/code/Node.py	/^    n2 = Node(2, None)$/;"	kind:variable	line:15
 naive_match	04/code/naive_match.py	/^def naive_match(patten_str, match_str):$/;"	kind:function	line:5

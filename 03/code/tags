@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+LinkedList	linked_list.py	/^class LinkedList:$/;"	kind:class	line:6
+Node	Node.py	/^class Node:$/;"	kind:class	line:4
+Node	linked_list.py	/^from Node import Node$/;"	kind:namespace	line:4
+Node.py	Node.py	1;"	kind:file	line:1
+SeqList	seq_list.py	/^class SeqList:$/;"	kind:class	line:4
+__init__	Node.py	/^    def __init__(self, elem=None, next=None):$/;"	kind:member	line:6
+__init__	linked_list.py	/^    def __init__(self):$/;"	kind:member	line:7
+__init__	seq_list.py	/^    def __init__(self, dataList=None):$/;"	kind:member	line:6
+append	linked_list.py	/^    def append(self, elem):$/;"	kind:member	line:26
+del_first	seq_list.py	/^    def del_first(self):$/;"	kind:member	line:26
+del_last	seq_list.py	/^    def del_last(self):$/;"	kind:member	line:24
+find	linked_list.py	/^    def find(self, pred):$/;"	kind:member	line:49
+forall	seq_list.py	/^    def forall(self, fn):$/;"	kind:member	line:29
+insert	seq_list.py	/^    def insert(self, elem, i):$/;"	kind:member	line:18
+isEmpty	linked_list.py	/^    def isEmpty(self):$/;"	kind:member	line:10
+is_empty	seq_list.py	/^    def is_empty(self):$/;"	kind:member	line:9
+iter.py	iter.py	1;"	kind:file	line:1
+length	seq_list.py	/^    def length(self):$/;"	kind:member	line:12
+linked_list.py	linked_list.py	1;"	kind:file	line:1
+n1	Node.py	/^    n1 = Node(1, None)$/;"	kind:variable	line:14
+n2	Node.py	/^    n2 = Node(2, None)$/;"	kind:variable	line:15
+pop	linked_list.py	/^    def pop(self):$/;"	kind:member	line:15
+poplast	linked_list.py	/^    def poplast(self):$/;"	kind:member	line:35
+preappend	seq_list.py	/^    def preappend(self, data):$/;"	kind:member	line:15
+prepend	linked_list.py	/^    def prepend(self, elem):$/;"	kind:member	line:13
+printAll	linked_list.py	/^    def printAll(self):$/;"	kind:member	line:57
+seq_list.py	seq_list.py	1;"	kind:file	line:1
